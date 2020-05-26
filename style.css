@@ -147,12 +147,15 @@ body {
     color: #f16d7f;
 }
 .galery1 {
-    display: flex;
-    
-    flex-direction: column;
-    flex-flow: wrap;
-    padding-top: 98px;
-    
+	display: flex;
+	justify-content: space-between;
+	padding-top: 98px;
+}
+
+.column {
+	display: flex;
+	justify-content: space-between;
+	flex-direction: column;
 }
 .offer {
     position: relative;
