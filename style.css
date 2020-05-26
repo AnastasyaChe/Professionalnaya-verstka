@@ -1,0 +1,232 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: 'Lato', sans-serif;
+}
+
+.container {
+    width: 1140px;
+    margin: auto;
+    
+}
+.header {
+    height: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.logo {
+    width: 165px;
+    background: url("img/logo.png") no-repeat;
+    text-transform: uppercase;
+    font-size: 27px;
+    font-weight: 300;
+    padding-left: 72px;
+    line-height: 51px;
+}
+.logo span {
+    color: #f16d7f;
+    font-weight: 700;
+    
+}
+.search {
+    display: flex;
+    align-items: center;
+    border-radius: 3px 0 0 3px;
+    border: 1px solid #e6e6e6;
+    overflow: hidden;
+    height: 40px;
+    font-weight: 300;
+    
+}
+.search .searchBrowse i {
+    color: #838383;
+}
+.search button i {
+    color: #a4a4a4;
+}
+.searchBrowse {
+    
+    background-color: #f8f8f8;
+    padding: 14px;
+    border-right: 1px solid #e6e6e6;
+    font-size: 14px;
+    line-height: 40px;
+    color: #222222;
+    font-weight: 400;
+}
+.search input {
+    height: inherit;
+    border: none;
+    outline: none;
+    padding: 14px 16px;
+    
+}
+.search button {
+    height: inherit;
+    border: none;
+    border-left: 1px solid #e6e6e6;
+    background: none;
+    padding: 12px;
+    
+}
+.accountBtn {
+    padding: 13px 19px;
+    background: #f16d7f;
+    font-size: 15px;
+    font-weight: 400;
+    color: #ffffff;
+    border: none;
+}
+.headerCart {
+    margin-right: 26px;
+    margin-left: auto;
+}
+.headerLine {
+    
+    border: 1px solid #ececec;
+}
+.topNav {
+    height: 50px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.topNav a {
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 14px;
+    font-weight: 700;
+}
+.topNav a:not(:last-child) {
+    margin-right: 45px;
+}
+.blackman {
+    background-color: #e8e8e8;
+    height: 614px;
+    overflow: hidden;
+   
+}
+.firstSlide {
+    display: flex;
+    flex-direction: row;
+    
+}
+.rectangle {
+    height: 95px;
+    width: 12px;
+    background-color:  #f16d7f; 
+    margin-right: 7px;
+    margin-top: 238px;
+}
+.globalText {
+    width: 485px;
+    color: #222222;
+    font-size: 40px;
+    font-weight: 400;
+    text-transform: uppercase;
+    padding-top: 221px;
+    
+}
+.globalText p {
+    margin: 0;
+}
+.theBrand {
+    font-size: 60px;
+    letter-spacing: 1.5px;
+    font-weight: 700;
+}
+.lux {
+   letter-spacing: 1px; 
+}
+.lux span {
+    color: #f16d7f;
+}
+.galery1 {
+    display: flex;
+    
+    flex-direction: column;
+    flex-flow: wrap;
+    padding-top: 98px;
+    
+}
+.offer {
+    position: relative;
+}
+
+.offerText {
+    position: absolute;
+    top: 25px;
+    padding: 16px 19px;
+    background-color: #ffffff;
+    text-transform: uppercase;
+    color: #222222;
+    font-size: 18px;
+    font-weight: 700;
+    letter-spacing: 0.45px;
+}
+.offerLable {
+    color: #f16d7f;
+    font-size: 30px;
+    letter-spacing: 0.75px;
+}
+.fetured {
+    margin-top: 100px;
+    text-align: center;
+    
+}
+.items {
+    color: #222222;
+    font-size: 30px;
+    font-weight: 700;
+}
+.feturedText { 
+    color: #9f9f9f;
+    font-size: 14px;
+    font-weight: 400;
+    letter-spacing: 0.35px;
+    margin-top: 16px;
+}
+.galery2{
+    margin-top: 30px;
+    display: flex;
+    flex-direction: row;
+    flex-flow: wrap;
+    justify-content: space-between; 
+}
+.offer2 {
+    margin-top: 33px;
+}
+.info {
+    padding-top: 21px;
+    padding-left: 10px;
+}
+.mango {
+    color: #222222;
+    font-size: 13px;
+    font-weight: 700;
+    margin-bottom: 17px;
+    text-transform: uppercase;
+}
+.price {
+    color: #f16d7f;
+    font-size: 16px;
+    font-weight: 700;
+    text-transform: uppercase;  
+}
+.allProducts {
+    padding: 18px 24px;
+    background-color: #f16d7f;
+    color: #ffffff;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.4px;
+    width: 212px;
+    text-align: center;
+    margin: 70px auto;
+      
+}
