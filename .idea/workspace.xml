@@ -19,9 +19,13 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f331c1-1043-46ea-a844-378e413661f8" name="Default Changelist" comment="task 2">
+    <list default="true" id="99f331c1-1043-46ea-a844-378e413661f8" name="Default Changelist" comment="lesson3">
+      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sing-butstr.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singl_butstr.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singl_page.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/singlePage.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/img/Background.jpg" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,13 +40,14 @@
       <list>
         <option value="HTML File" />
         <option value="CSS File" />
+        <option value="SCSS File" />
       </list>
     </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="master" />
+        <entry key="$PROJECT_DIR$" value="Lesson3" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -57,9 +62,10 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../мой проект1" />
+    <property name="list.type.of.created.stylesheet" value="SCSS" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -79,7 +85,9 @@
       <updated>1590830009663</updated>
       <workItem from="1590830014078" duration="822000" />
       <workItem from="1590830949786" duration="340000" />
-      <workItem from="1591087806308" duration="1922000" />
+      <workItem from="1591087806308" duration="2187000" />
+      <workItem from="1591513546221" duration="41000" />
+      <workItem from="1591686855910" duration="4631000" />
     </task>
     <task id="LOCAL-00001" summary="task 2">
       <created>1590830294289</created>
@@ -95,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590830362752</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="lesson3">
+      <created>1591089840553</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1591089840553</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -115,13 +130,22 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 2" />
-    <option name="LAST_COMMIT_MESSAGE" value="task 2" />
+    <MESSAGE value="lesson3" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591088724864">
+    <state x="308" y="157" key="EditFileWatcherDialog" timestamp="1591687337346">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591088724864" />
+    <state x="308" y="157" key="EditFileWatcherDialog/0.0.1280.760@0.0.1280.760" timestamp="1591687337346" />
+    <state x="420" y="134" key="FileChooserDialogImpl" timestamp="1591513576094">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591513576094" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591687117731">
+      <screen x="0" y="0" width="1280" height="760" />
+    </state>
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591687117731" />
     <state x="449" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591088649474">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
