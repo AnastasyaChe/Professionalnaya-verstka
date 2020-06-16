@@ -16,16 +16,26 @@
         <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
       </path>
     </expand>
-    <select />
+    <select>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="BRANCH:lesson4" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </select>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99f331c1-1043-46ea-a844-378e413661f8" name="Default Changelist" comment="lesson3">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/sing-butstr.scss" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singl_butstr.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singl_page.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/singlePage.html" afterDir="false" />
+    <list default="true" id="99f331c1-1043-46ea-a844-378e413661f8" name="Default Changelist" comment="lesson4">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ShoppingCart.html" beforeDir="false" afterPath="$PROJECT_DIR$/ShoppingCart.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/StyleShop.css" beforeDir="false" afterPath="$PROJECT_DIR$/StyleShop.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/sing-butstr.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sing-butstr.css.map" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/sing-butstr.scss" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/singl_butstr.html" beforeDir="false" afterPath="$PROJECT_DIR$/singl_butstr.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singl_page.css" beforeDir="false" afterPath="$PROJECT_DIR$/singl_page.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/singlePage.html" beforeDir="false" afterPath="$PROJECT_DIR$/singlePage.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +57,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$" value="Lesson3" />
+        <entry key="$PROJECT_DIR$" value="lesson4" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -87,7 +97,8 @@
       <workItem from="1590830949786" duration="340000" />
       <workItem from="1591087806308" duration="2187000" />
       <workItem from="1591513546221" duration="41000" />
-      <workItem from="1591686855910" duration="4631000" />
+      <workItem from="1591686855910" duration="5435000" />
+      <workItem from="1592292145839" duration="681000" />
     </task>
     <task id="LOCAL-00001" summary="task 2">
       <created>1590830294289</created>
@@ -110,7 +121,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591089840553</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lesson4">
+      <created>1591691689687</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1591691689688</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,7 +139,19 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="lesson4" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
@@ -131,7 +161,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="task 2" />
     <MESSAGE value="lesson3" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson3" />
+    <MESSAGE value="lesson4" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson4" />
   </component>
   <component name="WindowStateProjectService">
     <state x="308" y="157" key="EditFileWatcherDialog" timestamp="1591687337346">
@@ -142,10 +173,10 @@
       <screen x="0" y="0" width="1280" height="760" />
     </state>
     <state x="420" y="134" key="FileChooserDialogImpl/0.0.1280.760@0.0.1280.760" timestamp="1591513576094" />
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591687117731">
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2" timestamp="1591691736836">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
-    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591687117731" />
+    <state x="232" y="112" key="Vcs.Push.Dialog.v2/0.0.1280.760@0.0.1280.760" timestamp="1591691736836" />
     <state x="449" y="293" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1591088649474">
       <screen x="0" y="0" width="1280" height="760" />
     </state>
